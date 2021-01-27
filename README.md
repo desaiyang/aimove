@@ -1,2 +1,2 @@
 # aimove
-aimove - artificial move is a new github repository 
+aimove - artificial intelligence move is a new github repository hosted in miscrosoft azure
